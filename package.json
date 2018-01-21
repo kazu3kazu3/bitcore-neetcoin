@@ -64,6 +64,7 @@
     "bn.js": "=1.0.0",
     "brfs": "=1.0.0",
     "browserify-buffertools": "git://github.com/maraoz/browserify-buffertools.git",
+    "buffer-reverse": "^1.0.1",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffers": "=0.1.1",
     "buffertools": "=2.1.2",
@@ -72,6 +73,7 @@
     "jsrsasign": "=0.0.3",
     "preconditions": "^1.0.7",
     "protobufjs": "=3.0.0",
+    "scrypt": "^6.0.3",
     "sjcl": "=1.0.1",
     "socks5-client": "~0.3.6"
   },
